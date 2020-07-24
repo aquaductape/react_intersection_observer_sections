@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react_intersection_observer/static/css/main.75549139.chunk.css",
-    "main.js": "/react_intersection_observer/static/js/main.a8f5aa5c.chunk.js",
-    "main.js.map": "/react_intersection_observer/static/js/main.a8f5aa5c.chunk.js.map",
-    "runtime-main.js": "/react_intersection_observer/static/js/runtime-main.e87c7553.js",
-    "runtime-main.js.map": "/react_intersection_observer/static/js/runtime-main.e87c7553.js.map",
-    "static/js/2.aeb6949f.chunk.js": "/react_intersection_observer/static/js/2.aeb6949f.chunk.js",
-    "static/js/2.aeb6949f.chunk.js.map": "/react_intersection_observer/static/js/2.aeb6949f.chunk.js.map",
-    "index.html": "/react_intersection_observer/index.html",
-    "precache-manifest.d074b326f1299cb60016ab10aca2e2d8.js": "/react_intersection_observer/precache-manifest.d074b326f1299cb60016ab10aca2e2d8.js",
-    "service-worker.js": "/react_intersection_observer/service-worker.js",
-    "static/css/main.75549139.chunk.css.map": "/react_intersection_observer/static/css/main.75549139.chunk.css.map",
-    "static/js/2.aeb6949f.chunk.js.LICENSE.txt": "/react_intersection_observer/static/js/2.aeb6949f.chunk.js.LICENSE.txt"
+    "main.css": "/react_intersection_observer_sections/static/css/main.75549139.chunk.css",
+    "main.js": "/react_intersection_observer_sections/static/js/main.a8f5aa5c.chunk.js",
+    "main.js.map": "/react_intersection_observer_sections/static/js/main.a8f5aa5c.chunk.js.map",
+    "runtime-main.js": "/react_intersection_observer_sections/static/js/runtime-main.e191a68b.js",
+    "runtime-main.js.map": "/react_intersection_observer_sections/static/js/runtime-main.e191a68b.js.map",
+    "static/js/2.aeb6949f.chunk.js": "/react_intersection_observer_sections/static/js/2.aeb6949f.chunk.js",
+    "static/js/2.aeb6949f.chunk.js.map": "/react_intersection_observer_sections/static/js/2.aeb6949f.chunk.js.map",
+    "index.html": "/react_intersection_observer_sections/index.html",
+    "precache-manifest.f928c1b573a77e7488bcb758f93bc312.js": "/react_intersection_observer_sections/precache-manifest.f928c1b573a77e7488bcb758f93bc312.js",
+    "service-worker.js": "/react_intersection_observer_sections/service-worker.js",
+    "static/css/main.75549139.chunk.css.map": "/react_intersection_observer_sections/static/css/main.75549139.chunk.css.map",
+    "static/js/2.aeb6949f.chunk.js.LICENSE.txt": "/react_intersection_observer_sections/static/js/2.aeb6949f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e87c7553.js",
+    "static/js/runtime-main.e191a68b.js",
     "static/js/2.aeb6949f.chunk.js",
     "static/css/main.75549139.chunk.css",
     "static/js/main.a8f5aa5c.chunk.js"
