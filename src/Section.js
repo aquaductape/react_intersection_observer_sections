@@ -1,5 +1,4 @@
 import React, { useState, useRef, useEffect } from "react";
-import { prefix } from "inline-style-prefixer";
 
 const Section = ({
   id,
