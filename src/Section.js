@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
+import { prefix } from "inline-style-prefixer";
 
 const Section = ({
   id,
@@ -38,7 +39,7 @@ const Section = ({
   }, []);
 
   const styleHeader = {
-    position: sticky ? "sticky" : "relative",
+    // position: sticky ? "sticky" : "relative",
     // Shadow: casted only bottom, not on all sides
     //      best style if header layout has no left padding
     //      issue: may look strange
@@ -51,7 +52,7 @@ const Section = ({
   return (
     <section ref={containerRef}>
       <div className="sentinel-top" ref={sentinelTopRef}></div>
-      <header style={styleHeader}>
+      <header className={sticky ? "sticky" : null} style={styleHeader}>
         <h3>Header {id + 1}</h3>{" "}
         <button className="btn-remove" onClick={() => onRemove(id)}>
           Remove

@@ -29,6 +29,11 @@ section {
   padding-top: -70px;
 }
 
+section.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
 .sentinel-top {
   top: 0;
   left: 0;
@@ -36,6 +41,7 @@ section {
   width: 100%;
 }
 header {
+  position: relative;
   display: flex;
   justify-content: space-between;
   top: 0;
@@ -45,6 +51,11 @@ header {
   padding: 15px 0;
   background: #fff;
   transition: box-shadow 1000ms;
+}
+
+header.sticky {
+  position: -webkit-sticky;
+  position: sticky;
 }
 
 .content {
